@@ -1,6 +1,8 @@
 # task_welltory
 
 ## Вывод [result.txt]
+Поехали переносы строк, лучше смотреть в файле.
+
 ===cmarker_created.schema===
 ---1eba2aa1-2acf-460d-91e6-55a8c3e3b7a3.json---
 ERROR: Нет необходимого ключа cmarkers. Необходимо добавить пару ключ-значение
